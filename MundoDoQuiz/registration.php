@@ -12,7 +12,7 @@ include "connect.php";
 	mysqli_select_db($con,'quizdb');
 */
 
-
+//teste.
 	$username = $_POST['user'];
 	$password = $_POST['pass'];
 	

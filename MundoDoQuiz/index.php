@@ -41,6 +41,7 @@
 				<div class="card">
 					<h4 class="card-header text-center"> Login  </h4>
 					<br>
+					
 					<form action="login.php" method="post">
 						<div class="form-group">
 							<label for="user "> Usuário: </label>
@@ -60,6 +61,7 @@
 				<div class="card">
 					<h4 class="card-header text-center"> Cadastro </h4>
 					<br>
+
 					<form action="registration.php" method="post">
 						<div class="form-group">
 							<label for="user "> Usuário: </label>
